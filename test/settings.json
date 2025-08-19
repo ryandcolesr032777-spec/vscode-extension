@@ -1,8 +1,0 @@
-{
-  "extensions.ignoreRecommendations": true,
-  "git.autoRepositoryDetection": false,
-  "telemetry.telemetryLevel": "off",
-  "workbench.editor.enablePreview": false,
-  "workbench.secondarySideBar.defaultVisibility": "hidden",
-  "workbench.startupEditor": "none"
-}
