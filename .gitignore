@@ -1,8 +1,0 @@
-out
-dist
-node_modules
-bin
-.vscode-test/
-syntaxes/
-*.vsix
-.test-extensions
